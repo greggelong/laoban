@@ -12,7 +12,7 @@ let speakButton;
 let fwd;
 let bkw;
 function preload() {
-  story = loadStrings("c_swap_instructions.txt");
+  story = loadStrings("ce_swap_instructions.txt");
 }
 
 function setup() {
@@ -38,7 +38,7 @@ function setup() {
 function draw() {
   background(0);
   textSize(height / 15);
-  text(myline + " of " + story.length, width - 250, height - 50);
+  text((myline + 2) / 2 + " of " + story.length / 2, width - 250, height - 50);
   fill(myline, 100, 100);
   x = width; // to start set x at width
   let mywords = split(story[myline], " ");
@@ -56,12 +56,15 @@ function draw() {
 }
 
 function speakit() {
+  bard.setLang("zh-CN");
   bard.speak(story[myline]);
+  bard.setLang("en-US");
+  bard.speak(story[myline + 1]);
 }
 
 function goBack() {
   if (myline > 0) {
-    myline--;
+    myline -= 2;
     x = width;
     off = 10;
   }
@@ -69,7 +72,7 @@ function goBack() {
 
 function goForward() {
   if (myline < story.length - 1) {
-    myline++;
+    myline += 2;
     x = width;
     off = 10;
   }

@@ -1,0 +1,200 @@
+注意工人们，将, D, 6, 与, G, 5, 互换。
+Attention workers, swap, D, 6, with, G, 5.
+注意工人们，将, D, 1, 与, H, 7, 互换。
+Attention workers, swap, D, 1, with, H, 7.
+注意工人们，将, C, 8, 与, K, 5, 互换。
+Attention workers, swap, C, 8, with, K, 5.
+注意工人们，将, D, 8, 与, K, 8, 互换。
+Attention workers, swap, D, 8, with, K, 8.
+注意工人们，将, Y, 1, 与, Y, 7, 互换。
+Attention workers, swap, Y, 1, with, Y, 7.
+注意工人们，将, J, 6, 与, X, 5, 互换。
+Attention workers, swap, J, 6, with, X, 5.
+注意工人们，将, C, 1, 与, N, 7, 互换。
+Attention workers, swap, C, 1, with, N, 7.
+注意工人们，将, P, 6, 与, P, 8, 互换。
+Attention workers, swap, P, 6, with, P, 8.
+注意工人们，将, J, 2, 与, U, 5, 互换。
+Attention workers, swap, J, 2, with, U, 5.
+注意工人们，将, K, 2, 与, U, 2, 互换。
+Attention workers, swap, K, 2, with, U, 2.
+注意工人们，将, B, 6, 与, T, 5, 互换。
+Attention workers, swap, B, 6, with, T, 5.
+注意工人们，将, A, 2, 与, Q, 3, 互换。
+Attention workers, swap, A, 2, with, Q, 3.
+注意工人们，将, J, 3, 与, T, 4, 互换。
+Attention workers, swap, J, 3, with, T, 4.
+注意工人们，将, D, 2, 与, G, 6, 互换。
+Attention workers, swap, D, 2, with, G, 6.
+注意工人们，将, N, 2, 与, Y, 2, 互换。
+Attention workers, swap, N, 2, with, Y, 2.
+注意工人们，将, L, 1, 与, N, 1, 互换。
+Attention workers, swap, L, 1, with, N, 1.
+注意工人们，将, I, 2, 与, W, 7, 互换。
+Attention workers, swap, I, 2, with, W, 7.
+注意工人们，将, H, 8, 与, T, 1, 互换。
+Attention workers, swap, H, 8, with, T, 1.
+注意工人们，将, A, 8, 与, L, 8, 互换。
+Attention workers, swap, A, 8, with, L, 8.
+注意工人们，将, P, 1, 与, Y, 8, 互换。
+Attention workers, swap, P, 1, with, Y, 8.
+注意工人们，将, B, 4, 与, J, 8, 互换。
+Attention workers, swap, B, 4, with, J, 8.
+注意工人们，将, E, 1, 与, L, 5, 互换。
+Attention workers, swap, E, 1, with, L, 5.
+注意工人们，将, P, 4, 与, R, 2, 互换。
+Attention workers, swap, P, 4, with, R, 2.
+注意工人们，将, I, 8, 与, S, 7, 互换。
+Attention workers, swap, I, 8, with, S, 7.
+注意工人们，将, B, 2, 与, U, 7, 互换。
+Attention workers, swap, B, 2, with, U, 7.
+注意工人们，将, B, 3, 与, O, 6, 互换。
+Attention workers, swap, B, 3, with, O, 6.
+注意工人们，将, B, 8, 与, L, 4, 互换。
+Attention workers, swap, B, 8, with, L, 4.
+注意工人们，将, G, 3, 与, H, 1, 互换。
+Attention workers, swap, G, 3, with, H, 1.
+注意工人们，将, N, 3, 与, T, 2, 互换。
+Attention workers, swap, N, 3, with, T, 2.
+注意工人们，将, F, 3, 与, G, 4, 互换。
+Attention workers, swap, F, 3, with, G, 4.
+注意工人们，将, H, 6, 与, V, 2, 互换。
+Attention workers, swap, H, 6, with, V, 2.
+注意工人们，将, S, 8, 与, W, 4, 互换。
+Attention workers, swap, S, 8, with, W, 4.
+注意工人们，将, K, 1, 与, V, 5, 互换。
+Attention workers, swap, K, 1, with, V, 5.
+注意工人们，将, C, 3, 与, I, 6, 互换。
+Attention workers, swap, C, 3, with, I, 6.
+注意工人们，将, V, 6, 与, V, 8, 互换。
+Attention workers, swap, V, 6, with, V, 8.
+注意工人们，将, J, 1, 与, W, 1, 互换。
+Attention workers, swap, J, 1, with, W, 1.
+注意工人们，将, B, 1, 与, O, 5, 互换。
+Attention workers, swap, B, 1, with, O, 5.
+注意工人们，将, F, 1, 与, X, 6, 互换。
+Attention workers, swap, F, 1, with, X, 6.
+注意工人们，将, B, 5, 与, S, 6, 互换。
+Attention workers, swap, B, 5, with, S, 6.
+注意工人们，将, F, 6, 与, X, 3, 互换。
+Attention workers, swap, F, 6, with, X, 3.
+注意工人们，将, E, 5, 与, T, 3, 互换。
+Attention workers, swap, E, 5, with, T, 3.
+注意工人们，将, C, 5, 与, Q, 6, 互换。
+Attention workers, swap, C, 5, with, Q, 6.
+注意工人们，将, O, 1, 与, R, 5, 互换。
+Attention workers, swap, O, 1, with, R, 5.
+注意工人们，将, H, 2, 与, N, 4, 互换。
+Attention workers, swap, H, 2, with, N, 4.
+注意工人们，将, M, 1, 与, M, 7, 互换。
+Attention workers, swap, M, 1, with, M, 7.
+注意工人们，将, I, 7, 与, Q, 4, 互换。
+Attention workers, swap, I, 7, with, Q, 4.
+注意工人们，将, Q, 7, 与, Y, 6, 互换。
+Attention workers, swap, Q, 7, with, Y, 6.
+注意工人们，将, E, 3, 与, R, 4, 互换。
+Attention workers, swap, E, 3, with, R, 4.
+注意工人们，将, D, 4, 与, W, 2, 互换。
+Attention workers, swap, D, 4, with, W, 2.
+注意工人们，将, W, 8, 与, Y, 5, 互换。
+Attention workers, swap, W, 8, with, Y, 5.
+注意工人们，将, A, 1, 与, J, 4, 互换。
+Attention workers, swap, A, 1, with, J, 4.
+注意工人们，将, C, 4, 与, J, 7, 互换。
+Attention workers, swap, C, 4, with, J, 7.
+注意工人们，将, A, 4, 与, T, 8, 互换。
+Attention workers, swap, A, 4, with, T, 8.
+注意工人们，将, E, 2, 与, M, 2, 互换。
+Attention workers, swap, E, 2, with, M, 2.
+注意工人们，将, C, 2, 与, X, 1, 互换。
+Attention workers, swap, C, 2, with, X, 1.
+注意工人们，将, I, 3, 与, M, 6, 互换。
+Attention workers, swap, I, 3, with, M, 6.
+注意工人们，将, G, 7, 与, H, 5, 互换。
+Attention workers, swap, G, 7, with, H, 5.
+注意工人们，将, Q, 2, 与, W, 6, 互换。
+Attention workers, swap, Q, 2, with, W, 6.
+注意工人们，将, R, 7, 与, S, 5, 互换。
+Attention workers, swap, R, 7, with, S, 5.
+注意工人们，将, G, 8, 与, Q, 1, 互换。
+Attention workers, swap, G, 8, with, Q, 1.
+注意工人们，将, F, 7, 与, W, 3, 互换。
+Attention workers, swap, F, 7, with, W, 3.
+注意工人们，将, E, 7, 与, H, 3, 互换。
+Attention workers, swap, E, 7, with, H, 3.
+注意工人们，将, F, 5, 与, M, 3, 互换。
+Attention workers, swap, F, 5, with, M, 3.
+注意工人们，将, O, 2, 与, P, 7, 互换。
+Attention workers, swap, O, 2, with, P, 7.
+注意工人们，将, S, 2, 与, X, 7, 互换。
+Attention workers, swap, S, 2, with, X, 7.
+注意工人们，将, C, 7, 与, V, 1, 互换。
+Attention workers, swap, C, 7, with, V, 1.
+注意工人们，将, L, 7, 与, X, 4, 互换。
+Attention workers, swap, L, 7, with, X, 4.
+注意工人们，将, Q, 5, 与, R, 8, 互换。
+Attention workers, swap, Q, 5, with, R, 8.
+注意工人们，将, I, 5, 与, U, 3, 互换。
+Attention workers, swap, I, 5, with, U, 3.
+注意工人们，将, U, 8, 与, W, 5, 互换。
+Attention workers, swap, U, 8, with, W, 5.
+注意工人们，将, H, 4, 与, L, 6, 互换。
+Attention workers, swap, H, 4, with, L, 6.
+注意工人们，将, D, 5, 与, P, 3, 互换。
+Attention workers, swap, D, 5, with, P, 3.
+注意工人们，将, M, 4, 与, U, 1, 互换。
+Attention workers, swap, M, 4, with, U, 1.
+注意工人们，将, O, 7, 与, X, 8, 互换。
+Attention workers, swap, O, 7, with, X, 8.
+注意工人们，将, I, 1, 与, R, 3, 互换。
+Attention workers, swap, I, 1, with, R, 3.
+注意工人们，将, E, 4, 与, Y, 4, 互换。
+Attention workers, swap, E, 4, with, Y, 4.
+注意工人们，将, N, 5, 与, U, 6, 互换。
+Attention workers, swap, N, 5, with, U, 6.
+注意工人们，将, J, 5, 与, K, 4, 互换。
+Attention workers, swap, J, 5, with, K, 4.
+注意工人们，将, F, 4, 与, S, 4, 互换。
+Attention workers, swap, F, 4, with, S, 4.
+注意工人们，将, M, 8, 与, V, 7, 互换。
+Attention workers, swap, M, 8, with, V, 7.
+注意工人们，将, A, 6, 与, B, 7, 互换。
+Attention workers, swap, A, 6, with, B, 7.
+注意工人们，将, F, 2, 与, X, 2, 互换。
+Attention workers, swap, F, 2, with, X, 2.
+注意工人们，将, A, 5, 与, F, 8, 互换。
+Attention workers, swap, A, 5, with, F, 8.
+注意工人们，将, D, 7, 与, K, 3, 互换。
+Attention workers, swap, D, 7, with, K, 3.
+注意工人们，将, L, 2, 与, M, 5, 互换。
+Attention workers, swap, L, 2, with, M, 5.
+注意工人们，将, E, 6, 与, P, 2, 互换。
+Attention workers, swap, E, 6, with, P, 2.
+注意工人们，将, C, 6, 与, T, 7, 互换。
+Attention workers, swap, C, 6, with, T, 7.
+注意工人们，将, A, 7, 与, O, 8, 互换。
+Attention workers, swap, A, 7, with, O, 8.
+注意工人们，将, N, 8, 与, O, 3, 互换。
+Attention workers, swap, N, 8, with, O, 3.
+注意工人们，将, R, 1, 与, V, 3, 互换。
+Attention workers, swap, R, 1, with, V, 3.
+注意工人们，将, G, 1, 与, O, 4, 互换。
+Attention workers, swap, G, 1, with, O, 4.
+注意工人们，将, A, 3, 与, K, 7, 互换。
+Attention workers, swap, A, 3, with, K, 7.
+注意工人们，将, U, 4, 与, V, 4, 互换。
+Attention workers, swap, U, 4, with, V, 4.
+注意工人们，将, K, 6, 与, S, 1, 互换。
+Attention workers, swap, K, 6, with, S, 1.
+注意工人们，将, G, 2, 与, S, 3, 互换。
+Attention workers, swap, G, 2, with, S, 3.
+注意工人们，将, E, 8, 与, Y, 3, 互换。
+Attention workers, swap, E, 8, with, Y, 3.
+注意工人们，将, D, 3, 与, I, 4, 互换。
+Attention workers, swap, D, 3, with, I, 4.
+注意工人们，将, N, 6, 与, R, 6, 互换。
+Attention workers, swap, N, 6, with, R, 6.
+注意工人们，将, L, 3, 与, T, 6, 互换。
+Attention workers, swap, L, 3, with, T, 6.
+注意工人们，将, P, 5, 与, Q, 8, 互换。
+Attention workers, swap, P, 5, with, Q, 8.
