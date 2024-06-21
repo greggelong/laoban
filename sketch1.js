@@ -11,10 +11,11 @@ let bard;
 let speakButton;
 let fwd;
 let bkw;
-let talking= false
-let cbard 
+let talking = false;
+let cbard;
 function preload() {
-  story = loadStrings("ce_swap_instructions.txt");
+  //story = loadStrings("ce_swap_instructions.txt");
+  story = loadStrings("site.txt");
 }
 
 function setup() {
@@ -26,12 +27,11 @@ function setup() {
   cbard.setLang("zh-CN");
   //bard.listVoices()
   bard.onLoad = loaded;
-  
+
   cbard.onLoad = loaded;
   cbard.onEnd = speakit;
   speakButton = createButton("Speak it");
   speakButton.size(100, 100);
-  
 
   speakButton.mousePressed(speakit); // callback for speech
   fwd = createButton("Forward");
@@ -42,22 +42,23 @@ function setup() {
   bkw.mousePressed(goBack);
   myline = 0;
   print(story.length);
-  textAlign(LEFT,TOP)
+  textAlign(LEFT, TOP);
 }
 
- 
-
 function draw() {
-
   background(0);
   textSize(height / 15);
-  text((myline + 2) / 2 + " of " + (story.length-1) / 2, width - 250, height - 50);
-  fill(255,0,0);
+  text(
+    (myline + 2) / 2 + " of " + (story.length - 1) / 2,
+    width - 250,
+    height - 50
+  );
+  fill(255, 0, 0);
   x = width; // to start set x at width
   let mywords = split(story[myline], " ");
   //print(mywords, myline);
   for (let i = 0; i < mywords.length; i++) {
-    textSize(height-60);
+    textSize(height - 60);
     if (x - off < 0 && i == mywords.length - 1) {
       x = width;
       off = 10;
@@ -66,29 +67,23 @@ function draw() {
     x += textWidth(mywords[i]);
   }
   off += 5;
-  
 }
 
 function speakit() {
-  
-
-  
-  print("hello")
+  print("hello");
   cbard.setLang("zh-CN");
-  
+
   //bard.setVoice("Microsoft YaoYao - Chinese (Simplified, PRC)")
- 
+
   cbard.speak(story[myline]);
- //bard.setVoice("Microsoft Mark - English (United States)")
+  //bard.setVoice("Microsoft Mark - English (United States)")
   bard.setLang("en-US");
   bard.speak(story[myline + 1]);
-  
-  
 }
 
 function goBack() {
-  bard.cancel()
-  cbard.cancel()
+  bard.cancel();
+  cbard.cancel();
   if (myline > 0) {
     myline -= 2;
     x = width;
@@ -97,8 +92,8 @@ function goBack() {
 }
 
 function goForward() {
-  bard.cancel()
-  cbard.cancel()
+  bard.cancel();
+  cbard.cancel();
   if (myline < story.length - 3) {
     myline += 2;
     x = width;
