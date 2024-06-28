@@ -14,8 +14,8 @@ let bkw;
 let talking = false;
 let cbard;
 function preload() {
-  //story = loadStrings("ce_swap_instructions.txt");
-  story = loadStrings("site.txt");
+  story = loadStrings("ce_swap_instructions.txt");
+  //story = loadStrings("site.txt");
 }
 
 function setup() {
