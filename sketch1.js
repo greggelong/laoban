@@ -19,7 +19,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(900, 800);
+  createCanvas(windowWidth, 800);
   //colorMode(HSB, story.length, 100, 100);
   //textFont("Courier New", 10);
   bard = new p5.Speech(); // speech synthesis object
