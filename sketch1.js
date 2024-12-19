@@ -25,7 +25,7 @@ function setup() {
   bard = new p5.Speech(); // speech synthesis object
   cbard = new p5.Speech();
   cbard.setLang("zh-CN");
-  //bard.listVoices()
+  //cbard.listVoices()
   bard.onLoad = loaded;
 
   cbard.onLoad = loaded;
@@ -103,5 +103,5 @@ function goForward() {
 
 function loaded() {
   print("loaded");
-  //bard.listVoices();
+  //cbard.listVoices();
 }
