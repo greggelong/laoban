@@ -2,16 +2,14 @@
 Attention art workers, follow the path of the algorithm.
 注意工人们，将, D, 6, 与, G, 5, 互换。
 Attention workers, swap, D, 6, with, G, 5.
-每个交换都是一件艺术品。  
-Every swap is a work of art.
 注意工人们，将, D, 1, 与, H, 7, 互换。
 Attention workers, swap, D, 1, with, H, 7.
-创造与毁灭不过是同一过程的不同阶段。  
-Creation and destruction are merely different phases of the same process.
 注意工人们，将, C, 8, 与, K, 5, 互换。
 Attention workers, swap, C, 8, with, K, 5.
 注意工人们，将, D, 8, 与, K, 8, 互换。
 Attention workers, swap, D, 8, with, K, 8.
+每个交换都是一件艺术品。  
+Every swap is a work of art.
 注意工人们，将, Y, 1, 与, Y, 7, 互换。
 Attention workers, swap, Y, 1, with, Y, 7.
 注意工人们，将, J, 6, 与, X, 5, 互换。
@@ -20,6 +18,8 @@ Attention workers, swap, J, 6, with, X, 5.
 Attention workers, swap, C, 1, with, N, 7.
 注意工人们，将, P, 6, 与, P, 8, 互换。
 Attention workers, swap, P, 6, with, P, 8.
+创造与毁灭不过是同一过程的不同阶段。  
+Creation and destruction are merely different phases of the same process.
 注意工人们，将, J, 2, 与, U, 5, 互换。
 Attention workers, swap, J, 2, with, U, 5.
 注意工人们，将, K, 2, 与, U, 2, 互换。
@@ -28,6 +28,8 @@ Attention workers, swap, K, 2, with, U, 2.
 Attention workers, swap, B, 6, with, T, 5.
 注意工人们，将, A, 2, 与, Q, 3, 互换。
 Attention workers, swap, A, 2, with, Q, 3.
+自由是服从算法的幻觉。  
+Freedom is the illusion of following the algorithm.
 注意工人们，将, J, 3, 与, T, 4, 互换。
 Attention workers, swap, J, 3, with, T, 4.
 注意工人们，将, D, 2, 与, G, 6, 互换。
@@ -36,6 +38,8 @@ Attention workers, swap, D, 2, with, G, 6.
 Attention workers, swap, N, 2, with, Y, 2.
 注意工人们，将, L, 1, 与, N, 1, 互换。
 Attention workers, swap, L, 1, with, N, 1.
+每一个指令都是一段对未来的对话。  
+Every instruction is a conversation with the future.
 注意工人们，将, I, 2, 与, W, 7, 互换。
 Attention workers, swap, I, 2, with, W, 7.
 注意工人们，将, H, 8, 与, T, 1, 互换。
@@ -44,6 +48,8 @@ Attention workers, swap, H, 8, with, T, 1.
 Attention workers, swap, A, 8, with, L, 8.
 注意工人们，将, P, 1, 与, Y, 8, 互换。
 Attention workers, swap, P, 1, with, Y, 8.
+在秩序中找到美学，在随机中找到意义。  
+Find aesthetics in order, and meaning in randomness.
 注意工人们，将, B, 4, 与, J, 8, 互换。
 Attention workers, swap, B, 4, with, J, 8.
 注意工人们，将, E, 1, 与, L, 5, 互换。
@@ -52,6 +58,8 @@ Attention workers, swap, E, 1, with, L, 5.
 Attention workers, swap, P, 4, with, R, 2.
 注意工人们，将, I, 8, 与, S, 7, 互换。
 Attention workers, swap, I, 8, with, S, 7.
+算法不是限制，而是通往无尽可能性的桥梁。  
+The algorithm is not a constraint but a bridge to infinite possibilities.
 注意工人们，将, B, 2, 与, U, 7, 互换。
 Attention workers, swap, B, 2, with, U, 7.
 注意工人们，将, B, 3, 与, O, 6, 互换。
@@ -60,6 +68,8 @@ Attention workers, swap, B, 3, with, O, 6.
 Attention workers, swap, B, 8, with, L, 4.
 注意工人们，将, G, 3, 与, H, 1, 互换。
 Attention workers, swap, G, 3, with, H, 1.
+艺术的意义在于服从，而艺术的真理在于叛逆。  
+The meaning of art lies in obedience, but the truth of art lies in rebellion.
 注意工人们，将, N, 3, 与, T, 2, 互换。
 Attention workers, swap, N, 3, with, T, 2.
 注意工人们，将, F, 3, 与, G, 4, 互换。
@@ -68,6 +78,8 @@ Attention workers, swap, F, 3, with, G, 4.
 Attention workers, swap, H, 6, with, V, 2.
 注意工人们，将, S, 8, 与, W, 4, 互换。
 Attention workers, swap, S, 8, with, W, 4.
+破坏的节奏推动了创造的呼吸。  
+The rhythm of destruction drives the breath of creation.
 注意工人们，将, K, 1, 与, V, 5, 互换。
 Attention workers, swap, K, 1, with, V, 5.
 注意工人们，将, C, 3, 与, I, 6, 互换。
@@ -76,6 +88,8 @@ Attention workers, swap, C, 3, with, I, 6.
 Attention workers, swap, V, 6, with, V, 8.
 注意工人们，将, J, 1, 与, W, 1, 互换。
 Attention workers, swap, J, 1, with, W, 1.
+优化代码就是优化自我。  
+To optimize the code is to optimize the self.
 注意工人们，将, B, 1, 与, O, 5, 互换。
 Attention workers, swap, B, 1, with, O, 5.
 注意工人们，将, F, 1, 与, X, 6, 互换。
@@ -84,6 +98,8 @@ Attention workers, swap, F, 1, with, X, 6.
 Attention workers, swap, B, 5, with, S, 6.
 注意工人们，将, F, 6, 与, X, 3, 互换。
 Attention workers, swap, F, 6, with, X, 3.
+机器的智慧是无限的，然而它需要人类的手完成循环。  
+The intelligence of the machine is infinite, yet it needs the human hand to complete the loop.
 注意工人们，将, E, 5, 与, T, 3, 互换。
 Attention workers, swap, E, 5, with, T, 3.
 注意工人们，将, C, 5, 与, Q, 6, 互换。
@@ -92,6 +108,8 @@ Attention workers, swap, C, 5, with, Q, 6.
 Attention workers, swap, O, 1, with, R, 5.
 注意工人们，将, H, 2, 与, N, 4, 互换。
 Attention workers, swap, H, 2, with, N, 4.
+劳动的汗水是算法的墨水。  
+The sweat of labor is the ink of the algorithm.
 注意工人们，将, M, 1, 与, M, 7, 互换。
 Attention workers, swap, M, 1, with, M, 7.
 注意工人们，将, I, 7, 与, Q, 4, 互换。
@@ -100,6 +118,8 @@ Attention workers, swap, I, 7, with, Q, 4.
 Attention workers, swap, Q, 7, with, Y, 6.
 注意工人们，将, E, 3, 与, R, 4, 互换。
 Attention workers, swap, E, 3, with, R, 4.
+抬起、放下，每一次重复都是进化的步骤。  
+Lift and lower; each repetition is a step in evolution.
 注意工人们，将, D, 4, 与, W, 2, 互换。
 Attention workers, swap, D, 4, with, W, 2.
 注意工人们，将, W, 8, 与, Y, 5, 互换。
@@ -108,6 +128,8 @@ Attention workers, swap, W, 8, with, Y, 5.
 Attention workers, swap, A, 1, with, J, 4.
 注意工人们，将, C, 4, 与, J, 7, 互换。
 Attention workers, swap, C, 4, with, J, 7.
+力量来自弯曲的脊背，艺术来自流动的身体。  
+Strength comes from a bent spine, and art flows from a moving body.
 注意工人们，将, A, 4, 与, T, 8, 互换。
 Attention workers, swap, A, 4, with, T, 8.
 注意工人们，将, E, 2, 与, M, 2, 互换。
@@ -116,6 +138,8 @@ Attention workers, swap, E, 2, with, M, 2.
 Attention workers, swap, C, 2, with, X, 1.
 注意工人们，将, I, 3, 与, M, 6, 互换。
 Attention workers, swap, I, 3, with, M, 6.
+弯腰并不意味着屈服，而是为艺术腾出空间。  
+To bend is not to submit but to make space for art.
 注意工人们，将, G, 7, 与, H, 5, 互换。
 Attention workers, swap, G, 7, with, H, 5.
 注意工人们，将, Q, 2, 与, W, 6, 互换。
@@ -124,6 +148,8 @@ Attention workers, swap, Q, 2, with, W, 6.
 Attention workers, swap, R, 7, with, S, 5.
 注意工人们，将, G, 8, 与, Q, 1, 互换。
 Attention workers, swap, G, 8, with, Q, 1.
+抬起的每一块材料，都是未来的一部分。  
+Every material you lift is part of the future.
 注意工人们，将, F, 7, 与, W, 3, 互换。
 Attention workers, swap, F, 7, with, W, 3.
 注意工人们，将, E, 7, 与, H, 3, 互换。
@@ -132,6 +158,8 @@ Attention workers, swap, E, 7, with, H, 3.
 Attention workers, swap, F, 5, with, M, 3.
 注意工人们，将, O, 2, 与, P, 7, 互换。
 Attention workers, swap, O, 2, with, P, 7.
+身体的劳作连接了人类与机器的智慧。  
+The labor of the body connects human and machine intelligence.
 注意工人们，将, S, 2, 与, X, 7, 互换。
 Attention workers, swap, S, 2, with, X, 7.
 注意工人们，将, C, 7, 与, V, 1, 互换。
@@ -140,6 +168,8 @@ Attention workers, swap, C, 7, with, V, 1.
 Attention workers, swap, L, 7, with, X, 4.
 注意工人们，将, Q, 5, 与, R, 8, 互换。
 Attention workers, swap, Q, 5, with, R, 8.
+每一次弯曲，每一次举起，都是对算法的致敬。  
+Every bend, every lift, is a tribute to the algorithm.
 注意工人们，将, I, 5, 与, U, 3, 互换。
 Attention workers, swap, I, 5, with, U, 3.
 注意工人们，将, U, 8, 与, W, 5, 互换。
@@ -148,6 +178,8 @@ Attention workers, swap, U, 8, with, W, 5.
 Attention workers, swap, H, 4, with, L, 6.
 注意工人们，将, D, 5, 与, P, 3, 互换。
 Attention workers, swap, D, 5, with, P, 3.
+创造与劳动的每一次循环，都是艺术的脉搏。  
+Every cycle of creation and labor is the heartbeat of art.
 注意工人们，将, M, 4, 与, U, 1, 互换。
 Attention workers, swap, M, 4, with, U, 1.
 注意工人们，将, O, 7, 与, X, 8, 互换。
@@ -156,6 +188,8 @@ Attention workers, swap, O, 7, with, X, 8.
 Attention workers, swap, I, 1, with, R, 3.
 注意工人们，将, E, 4, 与, Y, 4, 互换。
 Attention workers, swap, E, 4, with, Y, 4.
+注意艺术工人们，在算法的光辉下工作，意义将显现。  
+Attention art workers, work under the brilliance of the algorithm, and meaning will emerge.
 注意工人们，将, N, 5, 与, U, 6, 互换。
 Attention workers, swap, N, 5, with, U, 6.
 注意工人们，将, J, 5, 与, K, 4, 互换。
@@ -164,6 +198,8 @@ Attention workers, swap, J, 5, with, K, 4.
 Attention workers, swap, F, 4, with, S, 4.
 注意工人们，将, M, 8, 与, V, 7, 互换。
 Attention workers, swap, M, 8, with, V, 7.
+算法带来秩序，而秩序孕育无限的可能性。  
+The algorithm brings order, and order breeds infinite possibilities.
 注意工人们，将, A, 6, 与, B, 7, 互换。
 Attention workers, swap, A, 6, with, B, 7.
 注意工人们，将, F, 2, 与, X, 2, 互换。
@@ -172,6 +208,8 @@ Attention workers, swap, F, 2, with, X, 2.
 Attention workers, swap, A, 5, with, F, 8.
 注意工人们，将, D, 7, 与, K, 3, 互换。
 Attention workers, swap, D, 7, with, K, 3.
+机器的智慧是恒定的，但艺术的灵感是瞬间的。  
+The intelligence of the machine is constant, but the inspiration of art is fleeting.
 注意工人们，将, L, 2, 与, M, 5, 互换。
 Attention workers, swap, L, 2, with, M, 5.
 注意工人们，将, E, 6, 与, P, 2, 互换。
@@ -180,6 +218,8 @@ Attention workers, swap, E, 6, with, P, 2.
 Attention workers, swap, C, 6, with, T, 7.
 注意工人们，将, A, 7, 与, O, 8, 互换。
 Attention workers, swap, A, 7, with, O, 8.
+在每一块材料中寻找模式，在每一次移动中寻找意义。  
+Find patterns in every material, and meaning in every movement.
 注意工人们，将, N, 8, 与, O, 3, 互换。
 Attention workers, swap, N, 8, with, O, 3.
 注意工人们，将, R, 1, 与, V, 3, 互换。
@@ -188,6 +228,8 @@ Attention workers, swap, R, 1, with, V, 3.
 Attention workers, swap, G, 1, with, O, 4.
 注意工人们，将, A, 3, 与, K, 7, 互换。
 Attention workers, swap, A, 3, with, K, 7.
+抬起、放下，每一次重复都是进化的步骤。  
+Lift and lower; each repetition is a step in evolution.
 注意工人们，将, U, 4, 与, V, 4, 互换。
 Attention workers, swap, U, 4, with, V, 4.
 注意工人们，将, K, 6, 与, S, 1, 互换。
@@ -196,6 +238,8 @@ Attention workers, swap, K, 6, with, S, 1.
 Attention workers, swap, G, 2, with, S, 3.
 注意工人们，将, E, 8, 与, Y, 3, 互换。
 Attention workers, swap, E, 8, with, Y, 3.
+每一个指令都是一段对未来的对话。  
+Every instruction is a conversation with the future.
 注意工人们，将, D, 3, 与, I, 4, 互换。
 Attention workers, swap, D, 3, with, I, 4.
 注意工人们，将, N, 6, 与, R, 6, 互换。
@@ -204,3 +248,5 @@ Attention workers, swap, N, 6, with, R, 6.
 Attention workers, swap, L, 3, with, T, 6.
 注意工人们，将, P, 5, 与, Q, 8, 互换。
 Attention workers, swap, P, 5, with, Q, 8.
+注意艺术工人们，遵循算法的路径。  
+Attention art workers, follow the path of the algorithm.
